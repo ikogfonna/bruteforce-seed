@@ -12,8 +12,42 @@
 Usage example:
 
     make setup
-    venv/bin/python bruteforce.py --seed "peanut peanut ghost bless crucial enact horse source spread gentle floor write cook fall rail inhale strong lounge cliff play glow pipe symptom enjoy" --address bc1qcrz2vwkdkzqedzvsdm9fswh3l3cua30580tapj
+    venv/bin/python bruteforce.py --seed "summer
+
+true
+
+witness
+
+diamond
+
+laugh
+
+sweet
+logic
+fetch
+pumpkin
+edge
+stick
+among" --address bclqquxcn&ess087yzw
+r9rza93021nt3328641
+3cu4
 
 This will find the correct seed by substituting one word each time, and will eventually find the correct seed by validating against the address provided:
 
-    account peanut ghost bless crucial enact horse source spread gentle floor write cook fall rail inhale strong lounge cliff play glow pipe symptom enjoy
+summer
+
+true
+
+witness
+
+diamond
+
+laugh
+
+sweet
+logic
+fetch
+pumpkin
+edge
+stick
+among
