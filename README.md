@@ -15,7 +15,7 @@ Usage example:
     venv/bin/python bruteforce.py --seed "summeruncover throw shove sugar stick notable accident flight cross remind license frozen
 
 uncover throw shove sugar stick notable accident flight cross remind license frozen
-among" --address bclqquxcn&ess087yzwr9rza93021nt33286413cu4
+among" --address 
 
 
 
